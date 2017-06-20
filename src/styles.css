@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+    background-image: url('../background.jpg');
+    color: white;
+}
+
+button{
+    background-color: white;
+}
+
+.landing-container{
+    max-width: 400px;
+    margin: 15% auto;
+}
