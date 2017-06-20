@@ -4,7 +4,6 @@ const path = require('path');
 var morgan = require('morgan');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
-var fs = require('fs');
 
 // configuration =================
 app.set('port', (process.env.PORT || 5000));
